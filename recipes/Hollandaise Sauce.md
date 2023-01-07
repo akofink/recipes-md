@@ -1,6 +1,6 @@
 Serves: 6 - 8
 
-## Ingredients
+### Ingredients
 
 - 7 egg yolks, at room temperature
 - 1 cup unsalted butter
@@ -9,7 +9,7 @@ Serves: 6 - 8
 - Salt, to taste
 
 
-## Instructions
+### Instructions
 
 1. Put yolks into a small container into which you can fit an immersion blender, or into the jar of a blender.
 1. Melt the butter in a small saucepan set over medium heat, then allow it to cool for a few minutes.
