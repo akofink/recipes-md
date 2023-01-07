@@ -9,4 +9,4 @@
 2. Pour in a 9x9 baking dish
 3. Bake for 45-50 minutes at 350º F
 
-[Original Recipe](http://www.food.com/recipe/memphis-corn-pudding-267639)
+[Original Recipe](http://www.food.com/recipe/memphis-corn-pudding-267639){:target="_blank"}
