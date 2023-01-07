@@ -1,8 +1,8 @@
 - Avocado
 - Tomato (optional)
-- Garlic
+- Garlic (optional)
 - Cilantro
-- Onion
+- Red Onion
 - Lime Juice
 - Cumin
 - Spice if desired (Peppers, etc.)
