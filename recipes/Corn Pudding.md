@@ -1,5 +1,5 @@
 - 1 (8 1/2 ounce) box Jiffy corn muffin mix
-- 1 (14 1/2 ounce) can whole kernel corn, with juice
+- 1 (14 1/2 ounce) can whole kernel corn, with juice; or substitute 1 cup frozen corn
 - 1 (14 1/2 ounce) can cream-style corn
 - 1/2 cup butter or 1/2 cup margarine, melted
 - 1 cup sour cream
