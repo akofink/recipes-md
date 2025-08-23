@@ -1,3 +1,5 @@
+#### Ingredients
+
 - 1/4 cup all-purpose flour
 - 1 cup milk
 - 1 pinch salt
@@ -7,10 +9,11 @@
 - 1 tablespoon white sugar
 - 12 thick slices bread
 
-1. Measure flour into a large mixing bowl. Slowly whisk in the milk. Whisk in the salt, eggs, cinnamon, vanilla extract and sugar until smooth.
-1. Heat a lightly oiled griddle or frying pan over medium heat.
-Soak bread slices in mixture until saturated. Cook bread on each side until golden brown.
+#### Directions
 
-Serve hot.
+1. Measure flour into a large mixing bowl. Slowly whisk in the milk. Whisk in the salt, eggs, cinnamon, vanilla extract and sugar until smooth.
+2. Heat a lightly oiled griddle or frying pan over medium heat.
+3. Soak bread slices in mixture until saturated. Cook bread on each side until golden brown.
+4. Serve hot.
 
 [Original Recipe](http://allrecipes.com/recipe/fluffy-french-toast/)
