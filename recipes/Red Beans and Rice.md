@@ -1,3 +1,5 @@
+#### Ingredients
+
 - 1 Lg. Videla Onion chopped
 - 1 Tbs garlic powder
 - 2 cans kidney beans red
@@ -7,6 +9,8 @@
 - 2 tsp Hot shot seasoning
 - 2 cups cooked rice
 
+#### Directions
+
 1. Sautee Onions and garlic powder till onions are soft add all other ingredients and bring to boil.
-1. Lower heat to simmer and stir every so often Cook rice according to package.
-1. Serve rice with bean mixture over it.
+2. Lower heat to simmer and stir every so often Cook rice according to package.
+3. Serve rice with bean mixture over it.

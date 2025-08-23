@@ -1,4 +1,4 @@
-### What you will need
+#### Ingredients
 - 2 chicken breasts 
 - 8 cups water
 - 2 bay leaves
