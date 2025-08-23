@@ -4,7 +4,7 @@ PREP TIME: 20 minutes | COOK TIME: 3 hours to chill
 
 YIELD: 8 cups | SERVES: 8
 
-## INGREDIENTS
+### INGREDIENTS
 - 1 1/3 cup sugar
 - 2/3 cup cocoa
 - 6 egg yolks, beaten
@@ -12,7 +12,7 @@ YIELD: 8 cups | SERVES: 8
 - 1 1/3 cup half and half
 
 
-## INSTRUCTIONS
+### INSTRUCTIONS
 
 Whisk the sugar, cocoa, eggs, and half and half together until smooth
 Then transfer to a double broiler and cook over med heat for about 5-7 minutes stirring constantly
@@ -26,3 +26,4 @@ Place your chilled ice cream mixture into your ice cream freezer (or if you're l
 Churn for about 20 minutes or so or until firm
 
 You can choose to eat your ice cream right away soft serve style or place the ice cream into reusable containers and freeze for later
+
