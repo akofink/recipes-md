@@ -1,15 +1,13 @@
 *Serves 8*
 
----
+#### Ingredients
 
-## Ingredients
-
-### Pepper Crust
+##### Pepper Crust
 - 1 pie dough recipe, or 1 (9-inch) deep-dish–style piecrust
 - 1 teaspoon coarsely ground or cracked black pepper
 - 1 teaspoon paprika
 
-### Filling
+##### Filling
 - 1 tablespoon butter
 - 1 tablespoon extra-virgin olive oil
 - 1 medium onion, finely chopped (about 1 cup)
@@ -23,9 +21,7 @@
 - 1 teaspoon salt
 - 1/4 teaspoon cayenne pepper
 
----
-
-## Instructions
+#### Instructions
 
 1. Prepare the pie dough, adding the black pepper and paprika into the sifted flour and salt.
    If using a premade piecrust, press the black pepper and paprika into the crust.
@@ -55,9 +51,7 @@
 12. Cool on a wire rack.
     Serve warm with toast rounds or crackers as an hors d’oeuvre, or cut into small wedges as an individual serving.
 
----
-
-## Attribution
+#### Attribution
 
 From *Holiday Fare: Favorite Williamsburg Recipes* by John R. Gonzales,
 published by Colonial Williamsburg.
