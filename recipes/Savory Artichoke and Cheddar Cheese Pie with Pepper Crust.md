@@ -1,5 +1,3 @@
-# Savory Artichoke and Cheddar Cheese Pie with Pepper Crust
-
 *Serves 8*
 
 ---
